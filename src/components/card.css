@@ -1,0 +1,18 @@
+.crd{
+    height: 215px;
+    /* width: 410px; */
+    width: 380px;
+    background-color: rgb(219, 219, 219);
+    text-align: center;
+    align-content: center;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 20px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.crd:hover{
+
+    background-color: rgb(122, 75, 75);
+}
